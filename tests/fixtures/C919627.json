@@ -16,11 +16,7 @@
     "source_port_id": "source_port_0",
     "name": "Anode",
     "pin_number": 1,
-    "port_hints": [
-      "Anode",
-      "pin1",
-      "1"
-    ],
+    "port_hints": ["Anode", "pin1", "1"],
     "source_component_id": "source_component_0",
     "subcircuit_id": "subcircuit_source_group_0"
   },
@@ -29,11 +25,7 @@
     "source_port_id": "source_port_1",
     "name": "Cathode",
     "pin_number": 2,
-    "port_hints": [
-      "Cathode",
-      "pin2",
-      "2"
-    ],
+    "port_hints": ["Cathode", "pin2", "2"],
     "source_component_id": "source_component_0",
     "subcircuit_id": "subcircuit_source_group_0"
   },
@@ -42,11 +34,7 @@
     "source_port_id": "source_port_2",
     "name": "VCC",
     "pin_number": 3,
-    "port_hints": [
-      "VCC",
-      "pin3",
-      "3"
-    ],
+    "port_hints": ["VCC", "pin3", "3"],
     "source_component_id": "source_component_0",
     "subcircuit_id": "subcircuit_source_group_0"
   },
@@ -55,11 +43,7 @@
     "source_port_id": "source_port_3",
     "name": "VO",
     "pin_number": 4,
-    "port_hints": [
-      "VO",
-      "pin4",
-      "4"
-    ],
+    "port_hints": ["VO", "pin4", "4"],
     "source_component_id": "source_component_0",
     "subcircuit_id": "subcircuit_source_group_0"
   },
@@ -68,11 +52,7 @@
     "source_port_id": "source_port_4",
     "name": "GND",
     "pin_number": 5,
-    "port_hints": [
-      "GND",
-      "pin5",
-      "5"
-    ],
+    "port_hints": ["GND", "pin5", "5"],
     "source_component_id": "source_component_0",
     "subcircuit_id": "subcircuit_source_group_0"
   },
@@ -83,9 +63,7 @@
     "name": "unnamed_chip1",
     "manufacturer_part_number": "GP1A57HRJ00F",
     "supplier_part_numbers": {
-      "jlcpcb": [
-        "C919627"
-      ]
+      "jlcpcb": ["C919627"]
     },
     "source_group_id": "source_group_0"
   },
@@ -302,16 +280,10 @@
     "outer_diameter": 1.2999973999999999,
     "hole_diameter": 0.7999983999999999,
     "shape": "circle",
-    "port_hints": [
-      "unnamed_platedhole1",
-      "pin1"
-    ],
+    "port_hints": ["unnamed_platedhole1", "pin1"],
     "x": -7.224928349999914,
     "y": 1.2050013500000887,
-    "layers": [
-      "top",
-      "bottom"
-    ],
+    "layers": ["top", "bottom"],
     "is_covered_with_solder_mask": false,
     "subcircuit_id": "subcircuit_source_group_0"
   },
@@ -343,16 +315,10 @@
     "outer_diameter": 1.2999973999999999,
     "hole_diameter": 0.7999983999999999,
     "shape": "circle",
-    "port_hints": [
-      "unnamed_platedhole2",
-      "pin2"
-    ],
+    "port_hints": ["unnamed_platedhole2", "pin2"],
     "x": -7.224928349999914,
     "y": -1.3349986499999886,
-    "layers": [
-      "top",
-      "bottom"
-    ],
+    "layers": ["top", "bottom"],
     "is_covered_with_solder_mask": false,
     "subcircuit_id": "subcircuit_source_group_0"
   },
@@ -384,16 +350,10 @@
     "outer_diameter": 1.2999973999999999,
     "hole_diameter": 0.7999983999999999,
     "shape": "circle",
-    "port_hints": [
-      "unnamed_platedhole3",
-      "pin3"
-    ],
+    "port_hints": ["unnamed_platedhole3", "pin3"],
     "x": 7.97493965000001,
     "y": -1.3349986499999886,
-    "layers": [
-      "top",
-      "bottom"
-    ],
+    "layers": ["top", "bottom"],
     "is_covered_with_solder_mask": false,
     "subcircuit_id": "subcircuit_source_group_0"
   },
@@ -425,16 +385,10 @@
     "outer_diameter": 1.2999973999999999,
     "hole_diameter": 0.7999983999999999,
     "shape": "circle",
-    "port_hints": [
-      "unnamed_platedhole4",
-      "pin4"
-    ],
+    "port_hints": ["unnamed_platedhole4", "pin4"],
     "x": 6.475069649999909,
     "y": -0.06499865000000682,
-    "layers": [
-      "top",
-      "bottom"
-    ],
+    "layers": ["top", "bottom"],
     "is_covered_with_solder_mask": false,
     "subcircuit_id": "subcircuit_source_group_0"
   },
@@ -466,16 +420,10 @@
     "outer_diameter": 1.2999973999999999,
     "hole_diameter": 0.7999983999999999,
     "shape": "circle",
-    "port_hints": [
-      "unnamed_platedhole5",
-      "pin5"
-    ],
+    "port_hints": ["unnamed_platedhole5", "pin5"],
     "x": 7.97493965000001,
     "y": 1.2050013500000887,
-    "layers": [
-      "top",
-      "bottom"
-    ],
+    "layers": ["top", "bottom"],
     "is_covered_with_solder_mask": false,
     "subcircuit_id": "subcircuit_source_group_0"
   },
@@ -533,12 +481,7 @@
     "type": "pcb_port",
     "pcb_port_id": "pcb_port_0",
     "pcb_component_id": "pcb_component_0",
-    "layers": [
-      "top",
-      "inner1",
-      "inner2",
-      "bottom"
-    ],
+    "layers": ["top", "inner1", "inner2", "bottom"],
     "subcircuit_id": "subcircuit_source_group_0",
     "x": -7.224928349999914,
     "y": 1.2050013500000887,
@@ -548,12 +491,7 @@
     "type": "pcb_port",
     "pcb_port_id": "pcb_port_1",
     "pcb_component_id": "pcb_component_0",
-    "layers": [
-      "top",
-      "inner1",
-      "inner2",
-      "bottom"
-    ],
+    "layers": ["top", "inner1", "inner2", "bottom"],
     "subcircuit_id": "subcircuit_source_group_0",
     "x": -7.224928349999914,
     "y": -1.3349986499999886,
@@ -563,12 +501,7 @@
     "type": "pcb_port",
     "pcb_port_id": "pcb_port_2",
     "pcb_component_id": "pcb_component_0",
-    "layers": [
-      "top",
-      "inner1",
-      "inner2",
-      "bottom"
-    ],
+    "layers": ["top", "inner1", "inner2", "bottom"],
     "subcircuit_id": "subcircuit_source_group_0",
     "x": 7.97493965000001,
     "y": -1.3349986499999886,
@@ -578,12 +511,7 @@
     "type": "pcb_port",
     "pcb_port_id": "pcb_port_3",
     "pcb_component_id": "pcb_component_0",
-    "layers": [
-      "top",
-      "inner1",
-      "inner2",
-      "bottom"
-    ],
+    "layers": ["top", "inner1", "inner2", "bottom"],
     "subcircuit_id": "subcircuit_source_group_0",
     "x": 6.475069649999909,
     "y": -0.06499865000000682,
@@ -593,12 +521,7 @@
     "type": "pcb_port",
     "pcb_port_id": "pcb_port_4",
     "pcb_component_id": "pcb_component_0",
-    "layers": [
-      "top",
-      "inner1",
-      "inner2",
-      "bottom"
-    ],
+    "layers": ["top", "inner1", "inner2", "bottom"],
     "subcircuit_id": "subcircuit_source_group_0",
     "x": 7.97493965000001,
     "y": 1.2050013500000887,
