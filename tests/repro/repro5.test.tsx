@@ -7,9 +7,9 @@ import * as fs from "node:fs"
 import * as path from "node:path"
 
 test("CAD model Z-coordinate position offset issue", async () => {
-  const esp32BoardPath = path.join(__dirname, "../fixtures/C919627.json")
+  const c919627Path = path.join(__dirname, "../fixtures/C919627.json")
 
-  const circuitData = fs.readFileSync(esp32BoardPath, "utf-8")
+  const circuitData = fs.readFileSync(c919627Path, "utf-8")
   const circuitJson: CircuitJson = JSON.parse(circuitData)
 
   // Convert circuit to GLTF (GLB format for rendering)
